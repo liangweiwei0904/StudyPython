@@ -26,4 +26,3 @@ for star in p:
 print(s)
 
 
-print(aaaa)
