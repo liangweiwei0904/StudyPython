@@ -1,0 +1,6 @@
+x = input("请用英文输入若干单词并用空格隔开：")
+print(x)
+y = x.split(" ")
+print(y)
+y.reverse()
+print(y)
